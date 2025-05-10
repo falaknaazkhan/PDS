@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Database and XML paths
-db_path = "final/final_oxfordshire.db"
+db_path = "final_oxfordshire.db"
 xml_path = "CouncilTaxData.xml"
 
 # Helper functions
