@@ -18,7 +18,7 @@ def run_query(query, params=()):
 st.title("Oxfordshire Data Explorer")
 
 # House Price Section
-st.header("House Price Queries")
+st.header("House Prices")
 # Task 4: Average house price in 2 years
 wards = pd.read_sql_query("SELECT DISTINCT ward_name FROM District", sqlite3.connect(db_path))['ward_name'].tolist()
 selected_ward = st.selectbox("Select Ward", wards)
