@@ -1,4 +1,4 @@
-# PDS
+# Principle of Data science 
 # 🚀 Streamlit Cloud Deployment Guide for Oxfordshire Data Explorer
 
 ## ✅ What you need
