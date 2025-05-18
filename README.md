@@ -76,12 +76,6 @@ You can now share this link with anyone (including your coursework submission) a
 
 You now have a professional, live, and interactive data science web app deployed.
 
-This can be shown in your submission, demo video, and even your CV or portfolio later.
-
-**Prepared by:** \[Your Name]
-**Course:** COMP7035 Principles of Data Science
-**Date:** \[Submission Date]
-
 ---
 
 End of Deployment Guide
